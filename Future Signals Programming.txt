@@ -1,6 +1,6 @@
 <html lang="pt">
 	<head>
-		<title>Free Signals Generator for DigitalZone Subscribers</title>
+		<title>Free Signals Generator for RHR Subscribers</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 		<link
